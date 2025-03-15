@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richard-fairthorne
 - 👀 I’m interested in fast, expressive programming languages.
-- 🌱 I’m make things with Rust.
+- 🌱 I make things with Rust.
 
 <!---
 richard-fairthorne/richard-fairthorne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
